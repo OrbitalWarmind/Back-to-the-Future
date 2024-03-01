@@ -1,5 +1,5 @@
 # Back-to-the-Future
-Python program that pulls the latest pages of URL's
+Python program that pulls the latest pages of URL's using the Wayback Machine.
 # Wayback Machine URL Search
 
 This Python script allows you to search for archived snapshots of a URL using the Wayback Machine API. It retrieves the closest archived snapshot along with its URL and timestamp.
