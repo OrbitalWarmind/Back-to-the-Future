@@ -4,7 +4,7 @@ This Python script allows you to see when a website was created and it will sear
 ## Installation
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/OrbitalWarmind/88mph.git
+    git clone https://github.com/OrbitalWarmind/Back-to-the-Future.git
     ```
 ## Usage
 
