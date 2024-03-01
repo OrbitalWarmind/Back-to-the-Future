@@ -1,6 +1,6 @@
 # Back-to-the-Future (Website Analysis Tool)
 
-This Python script allows you to see when a website was created and it will search for archived snapshots of a URL using the Wayback Machine API. It retrieves the closest archived snapshot, Give your public IP address and the SSL certificate of the site.
+This Python script allows you to see when a website was created and it will search for archived snapshots of a URL using the Wayback Machine API. It retrieves the closest archived snapshot, it will give you your public IP address and the SSL certificate of the site.
 
 ## Features
 
