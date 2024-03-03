@@ -8,12 +8,12 @@ User Interaction Loop: It runs an interactive loop where the user can input a do
 
 ## Functionality
 
-Option 1: Retrieves and displays the creation date of the provided website.
-Option 2: Checks for the most recent archived snapshot of the website using the Wayback Machine.
-Option 3: Fetches and displays SSL certificate information for the website.
-Option 4: Retrieves and displays the public IP address of the user.
-Option 5: Initiates a graphical effect mimicking the time travel effect from "Back to the Future" using Turtle graphics.
-Support for Exiting: The loop can be exited by typing 'exit'.
+- Option 1: Retrieves and displays the creation date of the provided website.
+- Option 2: Checks for the most recent archived snapshot of the website using the Wayback Machine.
+- Option 3: Fetches and displays SSL certificate information for the website.
+- Option 4: Retrieves and displays the public IP address of the user.
+- Option 5: Initiates a graphical effect mimicking the time travel effect from "Back to the Future" using Turtle graphics.
+- Support for Exiting: The loop can be exited by typing 'exit'.
 
 Error Handling: It includes basic error handling for various operations like fetching SSL information, getting public IP, etc.
 
